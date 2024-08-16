@@ -1,0 +1,10 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SaiHealthCare.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="dbconnection" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Password=Mh3kg*6FfP8wLMD;Persist Security Info=True;User ID=infosolution;Initial Catalog=DB_SaiHealthCare ;Data Source=68.178.171.143
+</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
